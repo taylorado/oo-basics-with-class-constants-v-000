@@ -30,8 +30,8 @@ class Shoe
     end
 
   # create the writer for genre and add the logic for the class constant
-  def brand=(brand)
-    @brand = brand
-    BRANDS << brand
-  end
+  #def brand=(brand)
+  #  @brand = brand
+  #  BRANDS << brand
+  #end
 end
